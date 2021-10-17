@@ -1,4 +1,4 @@
-# DissertionUoB
+# DissertationUoB
 
 Code and Materials for my Robotics(MSc) Dissertation in UoB
 
